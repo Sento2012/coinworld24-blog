@@ -1,0 +1,13 @@
+title: CoinWorld24
+description: >-
+  Crypto analysis for Asian markets — market insights, token updates, and
+  DeFi trends. Links back to the main site at coin-world24.com.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+# External main site — surfaced in minima's footer if the theme renders it.
+author:
+  name: CoinWorld24
+  url: https://coin-world24.com
